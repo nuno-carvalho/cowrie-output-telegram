@@ -9,10 +9,12 @@ The telegram.py file should be copied to src/cowrie/output/ (inside cowrie direc
 
 Add config above to etc/cowrie.cfg
 
+
 [output_telegram]
 enabled = true
 bot_id = 979821124:AAEfMZSWY0Bbt0nqGwfe5994XkPRWt6JZAo
 chat_id= 814725654
+
 
 
 Message sent to Telegram can be customized based in this fileds
